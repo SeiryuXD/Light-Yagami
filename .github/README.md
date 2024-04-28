@@ -1,16 +1,16 @@
 ━━━━━━━━━━━━━━━━━━━━
 
-**ᴋɪɴɢ ᴀʙɪsʜɴᴏɪ**
+**SEIRYU XD**
 
 <h2 align="center">
-    ──「 ᴇxᴏɴ   ʀᴏʙᴏᴛ 」──
+    ──「 LIGHT YAGAMI 」──
 </h2>
 
-##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/AbishnoiMF) 
+##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️]http://t.me/Guard_Yagamibot) 
 
 ## sᴛᴀᴛs
 <p align="center">
-<a href="https://github.com/Abishnoi69/ExonRobot/stargazers"><img src="https://img.shields.io/github/stars/Abishnoi69/ExonRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://telegra.ph/file/24a9dcdbf99b94c26dc66.jpg"><img src="https://img.shields.io/github/stars/Abishnoi69/ExonRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/Abishnoi69/ExonRobot/network/members"> <img src="https://img.shields.io/github/forks/Abishnoi69/ExonRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/Abishnoi69/ExonRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
